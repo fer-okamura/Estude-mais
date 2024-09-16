@@ -1,7 +1,8 @@
 # Estude+
 
 
-Title: "Estude+ Flash cards" draft: false language: pt-br featured\_image: images/featured/featured-img-placeholder.png summary: Sumário de seu projeto author: Unifil categories: Blog tags: \["ADS", "Educação", "Tecnologia", "Cultura", "Entretenimento"\] 
+Title: "Estude+ Flash cards" 
+Unifil categories: Blog tags: \["ADS", "Educação", "Tecnologia", "Cultura", "Entretenimento"\] 
 
 
 Aluno: Fernando Okamura Rodrigues
