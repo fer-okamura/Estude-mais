@@ -1,6 +1,8 @@
 # Estude+
 Vídeo da apresentação final:
+Aluno: Fernando Okamura Rodrigues
 
-[Link do site](https://www.youtube.com/watch?v=VOANMdleXjc)
+
+[Link Apresentação](https://www.youtube.com/watch?v=VOANMdleXjc)
 
 
